@@ -243,4 +243,4 @@ This repository serves as the official landing page for Tunngle. The software is
 **Get the most recent version of Tunngle today!** | Updated 2023
 
 ---
-**Last updated:** 2026-10-01 14:13:37 UTC
+**Last updated:** 2026-10-01 20:08:29 UTC
